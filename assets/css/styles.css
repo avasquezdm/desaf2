@@ -1,0 +1,54 @@
+body {
+    margin: 0px;
+    font-family: Tahoma;
+    background-color: black;
+}
+
+header {
+    background-image: url(../img/bridge-7504605_1280-cut.jpg);
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 60px;
+    padding: 5%;
+}
+
+header h1 {
+    font-weight: lighter;
+    margin: 0px;
+    padding-top: 45px;
+    font-size: 60px;
+}
+
+header p {
+    margin: 0px;
+    padding-bottom: 45px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+section img {
+    height: 200px;
+    width: 300px;
+}
+
+section div {
+    margin: 30px 150px;
+    vertical-align: top;
+}
+
+section span {
+    position: absolute;
+    margin: 90px 30px;
+}
+
+section, header {
+    color: rgba(223, 247, 255, 0.856);
+}
+
+footer {
+    background-color: brown;
+    text-align: center;
+    padding: 1%;
+    font-weight: bold;
+    margin-top: 60px;
+}
